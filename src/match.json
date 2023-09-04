@@ -1,0 +1,182 @@
+{
+    "journee1": {
+      "Poule A": {
+        "match1": {
+          "equipeDom": "Saint Palais",
+          "equipeExt": "SCAN",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "Jean Sarrailh",
+          "equipeExt": "Hendaye",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      },
+      "Poule B": {
+        "match1": {
+          "equipeDom": "Mourenx",
+          "equipeExt": "Hasparren",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "Lahourcade",
+          "equipeExt": "Bizanos",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      }
+    },
+    "journee2": {
+      "Poule A": {
+        "match1": {
+          "equipeDom": "Saint Palais",
+          "equipeExt": "Hendaye",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "SCAN",
+          "equipeExt": "Jean Sarrailh",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      },
+      "Poule B": {
+        "match1": {
+          "equipeDom": "Mourenx",
+          "equipeExt": "Lahourcade",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "Hasparren",
+          "equipeExt": "Bizanos",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      }
+    },
+    "journee3": {
+      "Poule A": {
+        "match1": {
+          "equipeDom": "Jean Sarrailh",
+          "equipeExt": "Saint Palais",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "Hendaye",
+          "equipeExt": "SCAN",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      },
+      "Poule B": {
+        "match1": {
+          "equipeDom": "Bizanos",
+          "equipeExt": "Mourenx",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "Hasparren",
+          "equipeExt": "Lahourcade",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      }
+    },
+    "journee4": {
+      "Poule A": {
+        "match1": {
+          "equipeDom": "SCAN",
+          "equipeExt": "Saint Palais",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "Hendaye",
+          "equipeExt": "Jean Sarrailh",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      },
+      "Poule B": {
+        "match1": {
+          "equipeDom": "Hasparren",
+          "equipeExt": "Mourenx",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "Bizanos",
+          "equipeExt": "Lahourcade",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      }
+    },
+    "journee5": {
+      "Poule A": {
+        "match1": {
+          "equipeDom": "Hendaye",
+          "equipeExt": "Saint Palais",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "Jean Sarrailh",
+          "equipeExt": "SCAN",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      },
+      "Poule B": {
+        "match1": {
+          "equipeDom": "Lahourcade",
+          "equipeExt": "Mourenx",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "Bizanos",
+          "equipeExt": "Hasparren",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      }
+    },
+    "journee6": {
+      "Poule A": {
+        "match1": {
+          "equipeDom": "Saint Palais",
+          "equipeExt": "Jean Sarrailh",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "SCAN",
+          "equipeExt": "Hendaye",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      },
+      "Poule B": {
+        "match1": {
+          "equipeDom": "Bizanos",
+          "equipeExt": "Mourenx",
+          "scoreDom": 3,
+          "scoreExt": 0
+        },
+        "match2": {
+          "equipeDom": "Lahourcade",
+          "equipeExt": "Hasparren",
+          "scoreDom": 3,
+          "scoreExt": 0
+        }
+      }
+    }
+  }
